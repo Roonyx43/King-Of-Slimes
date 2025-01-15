@@ -1,0 +1,1 @@
+/// @description Quando o personagem for criado
