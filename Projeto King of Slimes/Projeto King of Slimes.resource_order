@@ -21,6 +21,8 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"chao","order":1,"path":"folders/Sprites/chao.yy",},
     {"name":"grama","order":1,"path":"folders/Sprites/chao/grama.yy",},
+    {"name":"hud","order":2,"path":"folders/Sprites/hud.yy",},
+    {"name":"vida","order":1,"path":"folders/Sprites/hud/vida.yy",},
     {"name":"slimes","order":1,"path":"folders/Sprites/monstros/slimes.yy",},
     {"name":"slimes_animation_standard","order":2,"path":"folders/Sprites/monstros/slimes/slimes_animation_standard.yy",},
     {"name":"slimes_standard","order":1,"path":"folders/Sprites/monstros/slimes/slimes_standard.yy",},
@@ -29,5 +31,8 @@
     {"name":"Blue_Slime_Sheet","order":3,"path":"sprites/Blue_Slime_Sheet/Blue_Slime_Sheet.yy",},
     {"name":"Purple_Slime_Sheet","order":1,"path":"sprites/Purple_Slime_Sheet/Purple_Slime_Sheet.yy",},
     {"name":"Red_Slime_Sheet","order":2,"path":"sprites/Red_Slime_Sheet/Red_Slime_Sheet.yy",},
+    {"name":"spr_lifeicon_green","order":2,"path":"sprites/spr_lifeicon_green/spr_lifeicon_green.yy",},
+    {"name":"spr_lifeicon_purple","order":3,"path":"sprites/spr_lifeicon_purple/spr_lifeicon_purple.yy",},
+    {"name":"spr_lifeicon_red","order":1,"path":"sprites/spr_lifeicon_red/spr_lifeicon_red.yy",},
   ],
 }

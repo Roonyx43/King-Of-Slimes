@@ -31,6 +31,8 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"chao","folderPath":"folders/Sprites/chao.yy","name":"chao","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"grama","folderPath":"folders/Sprites/chao/grama.yy","name":"grama","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"hud","folderPath":"folders/Sprites/hud.yy","name":"hud","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"vida","folderPath":"folders/Sprites/hud/vida.yy","name":"vida","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"monstros","folderPath":"folders/Sprites/monstros.yy","name":"monstros","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"slimes","folderPath":"folders/Sprites/monstros/slimes.yy","name":"slimes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"slimes_animation_standard","folderPath":"folders/Sprites/monstros/slimes/slimes_animation_standard.yy","name":"slimes_animation_standard","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -40,7 +42,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Projeto King of Slimes",
   "resources":[
@@ -53,6 +55,10 @@
     {"id":{"name":"Purple_Slime_Sheet","path":"sprites/Purple_Slime_Sheet/Purple_Slime_Sheet.yy",},},
     {"id":{"name":"Red_Slime_Sheet","path":"sprites/Red_Slime_Sheet/Red_Slime_Sheet.yy",},},
     {"id":{"name":"spr_grama","path":"sprites/spr_grama/spr_grama.yy",},},
+    {"id":{"name":"spr_lifeicon_blue","path":"sprites/spr_lifeicon_blue/spr_lifeicon_blue.yy",},},
+    {"id":{"name":"spr_lifeicon_green","path":"sprites/spr_lifeicon_green/spr_lifeicon_green.yy",},},
+    {"id":{"name":"spr_lifeicon_purple","path":"sprites/spr_lifeicon_purple/spr_lifeicon_purple.yy",},},
+    {"id":{"name":"spr_lifeicon_red","path":"sprites/spr_lifeicon_red/spr_lifeicon_red.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
