@@ -1,7 +1,0 @@
-GML - GameMaker Language
-
-
-Documentação (Vários documentos que ajuda a entender a linguagem.)
-
-Para acessar a documentação do GML aperte F1
-
