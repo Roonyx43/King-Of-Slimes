@@ -28,6 +28,7 @@
     {"name":"slimes_standard","order":1,"path":"folders/Sprites/monstros/slimes/slimes_standard.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_slime_green","order":1,"path":"objects/obj_slime_green/obj_slime_green.yy",},
     {"name":"Blue_Slime_Sheet","order":3,"path":"sprites/Blue_Slime_Sheet/Blue_Slime_Sheet.yy",},
     {"name":"Purple_Slime_Sheet","order":1,"path":"sprites/Purple_Slime_Sheet/Purple_Slime_Sheet.yy",},
     {"name":"Red_Slime_Sheet","order":2,"path":"sprites/Red_Slime_Sheet/Red_Slime_Sheet.yy",},
